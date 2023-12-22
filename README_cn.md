@@ -1,7 +1,7 @@
 <p align="center"><a href="https://usememos.com"><img height="64px" src="https://raw.githubusercontent.com/eallion/memos.top/main/assets/img/logo-full.webp" alt="✍️ memos" /></a></p>
 
-<p align="center">Memos Top. 通过 Memos API 渲染的静态网页.</p>
-<p align="center">简单的 HTML、纯净的 CSS、原生的 JS。反框架设计。</p>
+<p align="center">Memos Top. 通过 Memos API 渲染的静态网页。</p>
+<p align="center">简单的 HTML、纯净的 CSS、原生的 JS。</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Memos-Top-orange" />
@@ -19,9 +19,13 @@
 
 中文 | [English](./README.md)
 
+> [!NOTE]  
+> 如果你想把你的 Mastodon （长毛象）的嘟文嵌入到自己的网页中，你可以参考这个项目。  
+> <https://github.com/eallion/mastodon-embed-feed-timeline>
+
 ### 前端框架
 
-> • 暗黑模式适配
+> • 暗黑模式适配  
 > • 移动端自适应
 
 - [**Memos**](https://github.com/usememos/memos)
